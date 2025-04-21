@@ -1,0 +1,21 @@
+# Ignore virtual environments
+.venv/
+
+# Ignore dataset directory
+.dataset/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VSCode settings (optional)
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints (optional if using notebooks)
+.ipynb_checkpoints/
+
